@@ -16,6 +16,7 @@
 		C9820C691E7276100059F1D2 /* MYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C681E7276100059F1D2 /* MYViewController.m */; };
 		C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */; };
 		C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */; };
+		C9820C701E7277C60059F1D2 /* image001.png in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6F1E7277C60059F1D2 /* image001.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		C9820C6A1E72769A0059F1D2 /* CustomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomeViewController.h; sourceTree = "<group>"; };
 		C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomeViewController.m; sourceTree = "<group>"; };
 		C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomeViewController.xib; sourceTree = "<group>"; };
+		C9820C6F1E7277C60059F1D2 /* image001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image001.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */,
 				C939C7941E7258E600E70479 /* Main.storyboard */,
 				C939C7971E7258E600E70479 /* Assets.xcassets */,
+				C9820C6F1E7277C60059F1D2 /* image001.png */,
 				C939C7991E7258E600E70479 /* LaunchScreen.storyboard */,
 				C939C79C1E7258E600E70479 /* Info.plist */,
 				C939C78B1E7258E600E70479 /* Supporting Files */,
@@ -154,6 +157,7 @@
 				C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */,
 				C939C7981E7258E600E70479 /* Assets.xcassets in Resources */,
 				C939C7961E7258E600E70479 /* Main.storyboard in Resources */,
+				C9820C701E7277C60059F1D2 /* image001.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
