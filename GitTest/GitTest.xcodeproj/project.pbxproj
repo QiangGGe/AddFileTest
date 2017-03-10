@@ -14,6 +14,8 @@
 		C939C7981E7258E600E70479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C939C7971E7258E600E70479 /* Assets.xcassets */; };
 		C939C79B1E7258E600E70479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C939C7991E7258E600E70479 /* LaunchScreen.storyboard */; };
 		C9820C691E7276100059F1D2 /* MYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C681E7276100059F1D2 /* MYViewController.m */; };
+		C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */; };
+		C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,9 @@
 		C939C79C1E7258E600E70479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9820C671E7276100059F1D2 /* MYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYViewController.h; sourceTree = "<group>"; };
 		C9820C681E7276100059F1D2 /* MYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYViewController.m; sourceTree = "<group>"; };
+		C9820C6A1E72769A0059F1D2 /* CustomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomeViewController.h; sourceTree = "<group>"; };
+		C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomeViewController.m; sourceTree = "<group>"; };
+		C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomeViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +72,9 @@
 				C939C7921E7258E600E70479 /* ViewController.m */,
 				C9820C671E7276100059F1D2 /* MYViewController.h */,
 				C9820C681E7276100059F1D2 /* MYViewController.m */,
+				C9820C6A1E72769A0059F1D2 /* CustomeViewController.h */,
+				C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */,
+				C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */,
 				C939C7941E7258E600E70479 /* Main.storyboard */,
 				C939C7971E7258E600E70479 /* Assets.xcassets */,
 				C939C7991E7258E600E70479 /* LaunchScreen.storyboard */,
@@ -143,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C939C79B1E7258E600E70479 /* LaunchScreen.storyboard in Resources */,
+				C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */,
 				C939C7981E7258E600E70479 /* Assets.xcassets in Resources */,
 				C939C7961E7258E600E70479 /* Main.storyboard in Resources */,
 			);
@@ -156,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C939C7931E7258E600E70479 /* ViewController.m in Sources */,
+				C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */,
 				C939C7901E7258E600E70479 /* AppDelegate.m in Sources */,
 				C9820C691E7276100059F1D2 /* MYViewController.m in Sources */,
 				C939C78D1E7258E600E70479 /* main.m in Sources */,
