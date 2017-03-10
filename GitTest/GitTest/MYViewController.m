@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    UILabel *dev2 = [[UILabel alloc] init];
+    
 }
 
 - (void)didReceiveMemoryWarning {
