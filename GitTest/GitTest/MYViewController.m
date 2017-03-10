@@ -17,8 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+
     
     UIButton *devBtn = [UIButton buttonWithType:UIButtonTypeCustom];
+
+    UILabel *dev2 = [[UILabel alloc] init];
+
     
 }
 
