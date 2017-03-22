@@ -1,32 +1,22 @@
 //
-//  MYViewController.m
+//  dev2ViewController.m
 //  GitTest
 //
 //  Created by qiangWang on 17/3/10.
 //  Copyright © 2017年 qiangWang. All rights reserved.
 //
 
-#import "MYViewController.h"
+#import "dev2ViewController.h"
 
-@interface MYViewController ()
+@interface dev2ViewController ()
 
 @end
 
-@implementation MYViewController
+@implementation dev2ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
-<<<<<<< HEAD
-=======
-
-    
-    UIButton *devBtn = [UIButton buttonWithType:UIButtonTypeCustom];
-
-    UILabel *dev2 = [[UILabel alloc] init];
-
-    
->>>>>>> dev
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)didReceiveMemoryWarning {
