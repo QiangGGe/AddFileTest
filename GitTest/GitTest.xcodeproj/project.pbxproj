@@ -17,11 +17,10 @@
 		C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */; };
 		C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */; };
 		C9820C701E7277C60059F1D2 /* image001.png in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6F1E7277C60059F1D2 /* image001.png */; };
-<<<<<<< HEAD
-=======
+
 		C9820C741E72866C0059F1D2 /* dev2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C721E72866C0059F1D2 /* dev2ViewController.m */; };
 		C9820C751E72866C0059F1D2 /* dev2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9820C731E72866C0059F1D2 /* dev2ViewController.xib */; };
->>>>>>> dev
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
