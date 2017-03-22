@@ -23,6 +23,8 @@
     btn.titleLabel.text = @"我是按钮";
     [self.view addSubview:btn];
     
+    
+    NSLog(@"在dev上增加了新的修改");
 }
 
 
