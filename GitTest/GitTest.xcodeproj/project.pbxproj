@@ -19,6 +19,8 @@
 		C9820C701E7277C60059F1D2 /* image001.png in Resources */ = {isa = PBXBuildFile; fileRef = C9820C6F1E7277C60059F1D2 /* image001.png */; };
 		C9820C741E72866C0059F1D2 /* dev2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9820C721E72866C0059F1D2 /* dev2ViewController.m */; };
 		C9820C751E72866C0059F1D2 /* dev2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9820C731E72866C0059F1D2 /* dev2ViewController.xib */; };
+		C9AF2E0F1E825145006E066D /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AF2E0D1E825145006E066D /* NewViewController.m */; };
+		C9AF2E101E825145006E066D /* NewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9AF2E0E1E825145006E066D /* NewViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,9 @@
 		C9820C711E72866C0059F1D2 /* dev2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dev2ViewController.h; sourceTree = "<group>"; };
 		C9820C721E72866C0059F1D2 /* dev2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dev2ViewController.m; sourceTree = "<group>"; };
 		C9820C731E72866C0059F1D2 /* dev2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = dev2ViewController.xib; sourceTree = "<group>"; };
+		C9AF2E0C1E825145006E066D /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		C9AF2E0D1E825145006E066D /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
+		C9AF2E0E1E825145006E066D /* NewViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +91,9 @@
 				C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */,
 				C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */,
 				C939C7941E7258E600E70479 /* Main.storyboard */,
+				C9AF2E0C1E825145006E066D /* NewViewController.h */,
+				C9AF2E0D1E825145006E066D /* NewViewController.m */,
+				C9AF2E0E1E825145006E066D /* NewViewController.xib */,
 				C939C7971E7258E600E70479 /* Assets.xcassets */,
 				C9820C6F1E7277C60059F1D2 /* image001.png */,
 				C939C7991E7258E600E70479 /* LaunchScreen.storyboard */,
@@ -165,6 +173,7 @@
 				C9820C6E1E72769A0059F1D2 /* CustomeViewController.xib in Resources */,
 				C939C7981E7258E600E70479 /* Assets.xcassets in Resources */,
 				C939C7961E7258E600E70479 /* Main.storyboard in Resources */,
+				C9AF2E101E825145006E066D /* NewViewController.xib in Resources */,
 				C9820C701E7277C60059F1D2 /* image001.png in Resources */,
 				C9820C751E72866C0059F1D2 /* dev2ViewController.xib in Resources */,
 			);
@@ -177,6 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9AF2E0F1E825145006E066D /* NewViewController.m in Sources */,
 				C939C7931E7258E600E70479 /* ViewController.m in Sources */,
 				C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */,
 				C939C7901E7258E600E70479 /* AppDelegate.m in Sources */,
