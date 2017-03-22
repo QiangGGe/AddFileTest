@@ -25,6 +25,8 @@
 
     [self.view addSubview:btn];
     
+    NSLog(@"master上新的修改");
+    
 }
 
 
