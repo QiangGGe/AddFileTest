@@ -1,24 +1,22 @@
 //
-//  Dev4ViewController.m
+//  Dev5ViewController.m
 //  GitTest
 //
 //  Created by qiangWang on 17/3/22.
 //  Copyright © 2017年 qiangWang. All rights reserved.
 //
 
-#import "Dev4ViewController.h"
+#import "Dev5ViewController.h"
 
-@interface Dev4ViewController ()
+@interface Dev5ViewController ()
 
 @end
 
-@implementation Dev4ViewController
+@implementation Dev5ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    
-    NSLog(@"Dev4ViewController xxxxxx");
 }
 
 - (void)didReceiveMemoryWarning {

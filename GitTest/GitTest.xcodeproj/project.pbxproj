@@ -23,6 +23,7 @@
 		C9AF2E141E82542E006E066D /* Dev3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AF2E121E82542E006E066D /* Dev3ViewController.m */; };
 		C9AF2E151E82542E006E066D /* Dev3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9AF2E131E82542E006E066D /* Dev3ViewController.xib */; };
 		C9AF2E181E825529006E066D /* Dev4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AF2E171E825529006E066D /* Dev4ViewController.m */; };
+		C9AF2E1B1E8256E3006E066D /* Dev5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AF2E1A1E8256E3006E066D /* Dev5ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,8 @@
 		C9AF2E131E82542E006E066D /* Dev3ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Dev3ViewController.xib; sourceTree = "<group>"; };
 		C9AF2E161E825529006E066D /* Dev4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dev4ViewController.h; sourceTree = "<group>"; };
 		C9AF2E171E825529006E066D /* Dev4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dev4ViewController.m; sourceTree = "<group>"; };
+		C9AF2E191E8256E3006E066D /* Dev5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dev5ViewController.h; sourceTree = "<group>"; };
+		C9AF2E1A1E8256E3006E066D /* Dev5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dev5ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 				C9AF2E131E82542E006E066D /* Dev3ViewController.xib */,
 				C9AF2E161E825529006E066D /* Dev4ViewController.h */,
 				C9AF2E171E825529006E066D /* Dev4ViewController.m */,
+				C9AF2E191E8256E3006E066D /* Dev5ViewController.h */,
+				C9AF2E1A1E8256E3006E066D /* Dev5ViewController.m */,
 				C939C7971E7258E600E70479 /* Assets.xcassets */,
 				C939C7991E7258E600E70479 /* LaunchScreen.storyboard */,
 				C939C79C1E7258E600E70479 /* Info.plist */,
@@ -197,6 +202,7 @@
 				C9AF2E181E825529006E066D /* Dev4ViewController.m in Sources */,
 				C939C7931E7258E600E70479 /* ViewController.m in Sources */,
 				C9AF2E141E82542E006E066D /* Dev3ViewController.m in Sources */,
+				C9AF2E1B1E8256E3006E066D /* Dev5ViewController.m in Sources */,
 				C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */,
 				C939C7901E7258E600E70479 /* AppDelegate.m in Sources */,
 				C9820C691E7276100059F1D2 /* MYViewController.m in Sources */,
