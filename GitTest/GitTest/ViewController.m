@@ -20,7 +20,7 @@
     NSLog(@"qiangge");
     
     UIButton *btn = [[UIButton alloc] initWithFrame:CGRectMake(100, 100, 100, 50)];
-    btn.titleLabel.text = @"我是按钮";
+    btn.titleLabel.text = @"我是Master上的按钮";
     [self.view addSubview:btn];
     
 }
