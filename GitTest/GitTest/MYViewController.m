@@ -16,17 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
-<<<<<<< HEAD
-=======
-
     
     UIButton *devBtn = [UIButton buttonWithType:UIButtonTypeCustom];
 
     UILabel *dev2 = [[UILabel alloc] init];
 
-    
->>>>>>> dev
+
 }
 
 - (void)didReceiveMemoryWarning {

@@ -40,12 +40,11 @@
 		C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomeViewController.m; sourceTree = "<group>"; };
 		C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomeViewController.xib; sourceTree = "<group>"; };
 		C9820C6F1E7277C60059F1D2 /* image001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image001.png; sourceTree = "<group>"; };
-<<<<<<< HEAD
-=======
+
 		C9820C711E72866C0059F1D2 /* dev2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dev2ViewController.h; sourceTree = "<group>"; };
 		C9820C721E72866C0059F1D2 /* dev2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dev2ViewController.m; sourceTree = "<group>"; };
 		C9820C731E72866C0059F1D2 /* dev2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = dev2ViewController.xib; sourceTree = "<group>"; };
->>>>>>> dev
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,12 +83,7 @@
 				C939C7921E7258E600E70479 /* ViewController.m */,
 				C9820C671E7276100059F1D2 /* MYViewController.h */,
 				C9820C681E7276100059F1D2 /* MYViewController.m */,
-<<<<<<< HEAD
-=======
-				C9820C711E72866C0059F1D2 /* dev2ViewController.h */,
-				C9820C721E72866C0059F1D2 /* dev2ViewController.m */,
-				C9820C731E72866C0059F1D2 /* dev2ViewController.xib */,
->>>>>>> dev
+
 				C9820C6A1E72769A0059F1D2 /* CustomeViewController.h */,
 				C9820C6B1E72769A0059F1D2 /* CustomeViewController.m */,
 				C9820C6C1E72769A0059F1D2 /* CustomeViewController.xib */,
@@ -174,10 +168,7 @@
 				C939C7981E7258E600E70479 /* Assets.xcassets in Resources */,
 				C939C7961E7258E600E70479 /* Main.storyboard in Resources */,
 				C9820C701E7277C60059F1D2 /* image001.png in Resources */,
-<<<<<<< HEAD
-=======
-				C9820C751E72866C0059F1D2 /* dev2ViewController.xib in Resources */,
->>>>>>> dev
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,10 +182,7 @@
 				C939C7931E7258E600E70479 /* ViewController.m in Sources */,
 				C9820C6D1E72769A0059F1D2 /* CustomeViewController.m in Sources */,
 				C939C7901E7258E600E70479 /* AppDelegate.m in Sources */,
-<<<<<<< HEAD
-=======
-				C9820C741E72866C0059F1D2 /* dev2ViewController.m in Sources */,
->>>>>>> dev
+
 				C9820C691E7276100059F1D2 /* MYViewController.m in Sources */,
 				C939C78D1E7258E600E70479 /* main.m in Sources */,
 			);
